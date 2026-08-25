@@ -1,1 +1,13 @@
+# macOS
+.DS_Store
 
+# Windows
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Local env / secrets (in case you add config later)
+.env
+*.local
