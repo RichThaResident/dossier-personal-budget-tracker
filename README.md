@@ -8,7 +8,7 @@ Built as a single self-contained HTML file — no backend, no build step, no dep
 
 Once GitHub Pages is enabled for this repo, the tool will be available at:
 
-https://richtharesident.github.io/dossier-budget-tracker/
+https://richtharesident.github.io/dossier-personal-budget-tracker
 
 ## Features
 
